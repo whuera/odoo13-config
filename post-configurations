@@ -1,0 +1,22 @@
+
+bajar el server:
+/odoo/odoo-server
+
+
+cambiar version de phyton
+
+sudo add-apt-repository ppa:jonathonf/python-3.6
+sudo apt update
+sudo apt install python3.6
+
+sudo rm /usr/bin/python
+sudo ln -s /usr/bin/python3 /usr/bin/python
+
+python -V
+debe quedar 3.6 
+ 
+ 
+crear el directorio
+mkdir /var/lib/odoo
+ 
+ 
