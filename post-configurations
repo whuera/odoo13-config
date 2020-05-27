@@ -18,5 +18,6 @@ debe quedar 3.6
  
 crear el directorio
 mkdir /var/lib/odoo
- 
+
+sudo apt --fix-broken install
  
