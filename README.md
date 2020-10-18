@@ -9,7 +9,7 @@ configuraciones para instalar odoo13 enterprice
 install Odoo ver. 13
 
 ## follow next steps:
-1. if exists previus installation of Odoo or lats instalaltion not found, down odoo server: /odoo/odoo-server stop
+1. if exists previus installation of Odoo or last instalaltion not found, down odoo server: /odoo/odoo-server stop
 2. change python version type this commands: 
 3. sudo add-apt-repository ppa:jonathonf/python-3.6
 4. sudo apt update
