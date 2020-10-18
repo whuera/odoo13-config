@@ -1,7 +1,9 @@
 ![technology Gradle](https://img.shields.io/badge/technology-Gradle-blue.svg)
 ![homebrew](https://img.shields.io/homebrew/v/cake)
 ![Open Collective sponsors](https://img.shields.io/opencollective/sponsors/shields)
-![GitHub commits since tagged version (branch)](https://img.shields.io/github/commits-since/whuera/install-brew/1.0/main)
+[![GitHub forks](https://img.shields.io/github/forks/whuera/odoo13-config)](https://github.com/whuera/odoo13-config/network)
+[![GitHub issues](https://img.shields.io/github/issues/whuera/odoo13-config)](https://github.com/whuera/odoo13-config/issues)
+
 
 # Install odoo13 Enterprice in Google Cloud Instance / Linux Ubuntu
 configuraciones para instalar odoo13 enterprice
