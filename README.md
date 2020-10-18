@@ -3,6 +3,7 @@
 ![Open Collective sponsors](https://img.shields.io/opencollective/sponsors/shields)
 [![GitHub forks](https://img.shields.io/github/forks/whuera/odoo13-config)](https://github.com/whuera/odoo13-config/network)
 [![GitHub issues](https://img.shields.io/github/issues/whuera/odoo13-config)](https://github.com/whuera/odoo13-config/issues)
+[![GitHub license](https://img.shields.io/github/license/whuera/odoo13-config)](https://github.com/whuera/odoo13-config/blob/master/LICENSE)
 
 
 # Install odoo13 Enterprice in Google Cloud Instance / Linux Ubuntu
