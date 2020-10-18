@@ -24,6 +24,8 @@ install Odoo ver. 13
 13. mkdir /var/lib/odoo
 14. then type this command:
 15. sudo apt --fix-broken install
+16. download this repo this file: "odoo_install.sh" and execute: "odoo_install.sh" note: this file is fixed of original version
+17. you can using: sh odoo_install.sh or ./odoo_install.sh
 
-referencia:
+reference:
 https://github.com/Yenthe666/InstallScript
